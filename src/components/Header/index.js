@@ -1,5 +1,2 @@
-// import Header from "./Header";
-// export default Header
-
-import Header1 from "./classtime";
-export default Header1
+import Header from "./Header.js";
+export default Header
